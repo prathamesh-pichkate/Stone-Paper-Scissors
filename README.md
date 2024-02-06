@@ -8,7 +8,3 @@ It's built using HTML, CSS, and JavaScript to provide an engaging experience for
 1 .Play the classic Stone Paper Scissors game in your browser.<br>
 2 .User-friendly interface with responsive design.<br>
 3 .Instantly see the results of each round.<br>
-
-
-
-
